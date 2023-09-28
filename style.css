@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    height: 1000vw;
+    flex-direction:column;
+}
+nav{
+    background-color: red;
+    min-width: 100vw;
+    position: sticky;
+    top: 1px;
+}
+#main{
+    color:red;
+    min-height: 100%;
+}
