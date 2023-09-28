@@ -19,4 +19,5 @@ nav{
 }
 h1{
     font-size:calc(12px + 10vw);
+    color:red;
 }
