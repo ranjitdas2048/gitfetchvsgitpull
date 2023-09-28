@@ -17,3 +17,6 @@ nav{
     color:red;
     min-height: 100%;
 }
+h1{
+    font-size:calc(12px + 10vw);
+}
